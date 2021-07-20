@@ -1,0 +1,7 @@
+C:\Users\Psujek\Programming\BankSchalter\BankSchalter\bin\Debug\BankSchalter.exe.config
+C:\Users\Psujek\Programming\BankSchalter\BankSchalter\bin\Debug\BankSchalter.exe
+C:\Users\Psujek\Programming\BankSchalter\BankSchalter\bin\Debug\BankSchalter.pdb
+C:\Users\Psujek\Programming\BankSchalter\BankSchalter\obj\Debug\BankSchalter.csprojAssemblyReference.cache
+C:\Users\Psujek\Programming\BankSchalter\BankSchalter\obj\Debug\BankSchalter.csproj.CoreCompileInputs.cache
+C:\Users\Psujek\Programming\BankSchalter\BankSchalter\obj\Debug\BankSchalter.exe
+C:\Users\Psujek\Programming\BankSchalter\BankSchalter\obj\Debug\BankSchalter.pdb
